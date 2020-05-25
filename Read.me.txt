@@ -1,0 +1,5 @@
+Hierholzer's Algorithm for find a path in Eulerian Graphs
+
+Input => list = ['u v', ....], Where each entrance of the list is an edge of the graph.
+
+Copyright João Paulo Biazotto, 2020
